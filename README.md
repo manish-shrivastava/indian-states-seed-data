@@ -1,6 +1,6 @@
-# indian-country's states / provice seed-data for ruby on rails.
+# Indian's states / provice seed-data for ruby on rails.
 
-This is a seed data for indian states / province list. It is directly importable by running rake db:seed command.
+This is a seed data for the country Indian -  states / province list. It is directly importable by running rake db:seed command.
 
 ## Country Table
 
